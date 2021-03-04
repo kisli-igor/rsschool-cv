@@ -24,6 +24,7 @@ function isPalindrome(line) {
 6. **Expirience** - JS course 2021 in Rolling Scopes School
 
 7. **Education** - Primary Education - Dnipro Medical Academy.
+
    Computer Academy "ШАГ" - 5 years of basic course.
 
 8. **Endglish Skills** - Intermediate level of English. Had a practice abroad while travel. Also every day I watch youtube videos and read articles in English.
