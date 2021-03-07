@@ -9,18 +9,51 @@ body {
   border-radius: 25px;
 }
 
+footer {
+  border-top: 1px grey solid;
+  width: 800px;
+  margin: auto;
+}
+footer img {
+  height: 50px;
+  margin-left: auto;
+  padding: 20px 80px;
+}
+
+.myphoto {
+  float: left;
+  height: 325px;
+  width: auto;
+  margin: 0 30px 10px 0;
+}
+
 h1 {
   margin-bottom: 30px;
   border-bottom: 1px black solid;
   text-align: center;
 }
-ol li {
+ol li:first-child {
+  margin-top: 10px;
   padding-bottom: 10px;
+}
+ol li {
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+
+ul {
+  margin-left: 250px;
+  margin-bottom: 25px;
 }
 
 .code {
   border: 1px black solid;
   width: 600px;
-  margin: auto;
+  margin-left: 50px;
 }
 
+.skills {
+  margin-left: 5px;
+  list-style: square outside;
+}
