@@ -32,6 +32,11 @@ h1 {
   border-bottom: 1px black solid;
   text-align: center;
 }
+
+ol {
+  padding-right: 30px;
+}
+
 ol li:first-child {
   margin-top: 10px;
   padding-bottom: 10px;
@@ -48,9 +53,18 @@ ul {
 }
 
 .code {
+  display: block;
+  background-color: #2b2b2b;
+  color: #a6b4c2;
+  padding: 20px;
+
   border: 1px black solid;
+  border-radius: 10px;
   width: 600px;
-  margin-left: 50px;
+}
+
+a {
+  text-decoration: none;
 }
 
 .skills {
